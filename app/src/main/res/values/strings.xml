@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Marvel1</string>
+    <string name="app_name">Marvel</string>
+    <string name="image">Image</string>
+    <string name="count_comics">Count comics</string>
+    <string name="count_stories">Count stories</string>
+    <string name="count_series">Count series</string>
+    <string name="count_events">Count events</string>
 </resources>
